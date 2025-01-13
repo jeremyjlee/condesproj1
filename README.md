@@ -1,6 +1,9 @@
 # **"Butterfly" Project Overview**
 The "Butterfly" project explores the relationship between human input and AI-generated outputs using **RunwayML**'s image-to-text and edge detection features. The process involves generating abstract yet coherent images and tracing their edges to examine AI's ability to interpret and replicate human-defined structures. The project also incorporates a **dynamic website** built with **HTML, CSS, and JavaScript**, where visitors can experience an interactive and evolving display of nouns, images, and their traced outlines.
 
+### **Website Link**  
+[Explore the "Butterfly" Project](https://jeremyjlee.github.io/condesproj1/)
+
 ---
 
 ## **Process Description**
